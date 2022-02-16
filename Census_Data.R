@@ -25,3 +25,6 @@ plot(x = s$age_husband , y = s$age_wife, type = 'p')
 hist(acs$number_children)
 counts <- table(acs$bedrooms)
 barplot(counts,main="Bedrooms Distribution", xlab="Number of Bedrooms")
+$ git clone https://github.com/username/repo.git
+Username: ToniRab123
+Password: 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
